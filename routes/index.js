@@ -6,4 +6,25 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Mauricios Test App' });
 });
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 module.exports = router;
